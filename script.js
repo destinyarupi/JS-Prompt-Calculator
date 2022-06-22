@@ -24,7 +24,7 @@ if(isNaN(num1) || isNaN(num2)){
             alert(`${num1} / ${num2} = ${result}`);
             break;
         default:
-            alert('Invalid operator! Please choose an operator from the listed provided.')
+            alert('Invalid operator! Please choose an operator from the list provided.')
         }   
 }
 
